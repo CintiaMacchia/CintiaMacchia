@@ -1,6 +1,6 @@
 <h3> Olá! Sou Cintia, uma desenvolvedora Back-end formada com sólida formação e experiência prática em tecnologia.</h3> <br/>
 <b>Sobre Mim:</b>
-<p>Apaixonada por tecnologia, tenho buscado conhecimento e aperfeiçoamento constante.</p>
+<p>Sou apaixonada por tecnologia e comecei minha jornada em Desenvolvimento Back-end em 2021. Ao longo do tempo, tenho me envolvido em projetos práticos e treinamentos intensivos, desenvolvendo habilidades valiosas e aplicando conhecimentos adquiridos em um ambiente prático.</p>
 <br/>
 <h2>Linguagens:</h2>
 <div>
