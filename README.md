@@ -23,6 +23,8 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="SEQUELIZE" width="36" height="36"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="JEST" width="36" height="36"/>   
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="FIGMA" width="36" height="36"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36"/>
+          
         </div>         
          
 <p><img align="left" style="display:block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=CintiaMacchia&show_icons=true&locale=en&layout=compact" alt="CitniaMacchia" /></p>
