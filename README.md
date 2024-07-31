@@ -1,4 +1,5 @@
-<h3> Olá meu nome é Cintia</h3> <br/>
+<h3> Olá! Sou Cintia, uma desenvolvedora Back-end formada com sólida formação e experiência prática em tecnologia.</h3> <br/>
+**Sobre Mim:**
 <p>Apaixonada por tecnologia, tenho buscado conhecimento e aperfeiçoamento constante.</p>
 <br/>
 <h2>Linguagens:</h2>
